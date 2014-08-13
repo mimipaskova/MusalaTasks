@@ -1,0 +1,32 @@
+input.txt
+3mimi
+lorem.txt
+mimi.txt
+7mimi
+new  1.txt
+Task1.txt
+Task2.txt
+input.txt
+3mimi
+lorem.txt
+mimi.txt
+7mimi
+new  1.txt
+Task1.txt
+Task2.txt
+input.txt
+3mimi
+lorem.txt
+mimi.txt
+7mimi
+new  1.txt
+Task1.txt
+Task2.txt
+input.txt
+3mimi
+lorem.txt
+mimi.txt
+7mimi
+new  1.txt
+Task1.txt
+Task2.txt
